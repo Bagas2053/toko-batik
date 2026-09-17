@@ -24,7 +24,6 @@ toko_batik/
 1. Import `toko_batik.sql` ke MySQL/MariaDB
 2. Backend: `cd backend && npm install && npm start` (PORT 5000)
 3. Frontend: `cd frontend && npm install && npm run dev`
-
 ## Catatan
 
 Kontak, alamat, rekening bank, dan teks konten sudah disesuaikan untuk Toko Batik Ananda.
